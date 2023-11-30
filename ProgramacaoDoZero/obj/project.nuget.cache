@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bkeRS3JzSxDUrs9EGb32+Q/j6hStS9Hw+/6TDeXdqbpJtlfbaeJSaIBm40LC49anhvGNG4XExjzBVpfmcciTQ==",
+  "dgSpecHash": "Sivrz2NmZRdVLUfuFrhocKazaqrjUUJUeqNxFvFEd6caaJRni2XG2aaZ0MmvtHic7K6oFt3OLWMHijOVviPEFA==",
   "success": true,
-  "projectFilePath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/TodoApi.csproj",
+  "projectFilePath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/TodoApi.csproj",
   "expectedPackageFiles": [
     "/home/rafaeleliasgri/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/rafaeleliasgri/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

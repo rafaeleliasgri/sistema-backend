@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/TodoApi.csproj": {}
+    "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/TodoApi.csproj": {}
   },
   "projects": {
-    "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/TodoApi.csproj": {
+    "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/TodoApi.csproj",
+        "projectUniqueName": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/TodoApi.csproj",
+        "projectPath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/TodoApi.csproj",
         "packagesPath": "/home/rafaeleliasgri/.nuget/packages/",
-        "outputPath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/backend/ProgramacaoDoZero/obj/",
+        "outputPath": "/media/rafaeleliasgri/HD1TB/RAFAO/BACKUP_A/DEV_FULL_STACK/gitProject/sistema-backend/ProgramacaoDoZero/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rafaeleliasgri/.nuget/NuGet/NuGet.Config"
